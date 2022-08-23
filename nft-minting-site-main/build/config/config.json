@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92F2087BdCaaaF74511C2E7c123EFD5A8A72127F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x92f2087bdcaaaf74511c2e7c123efd5a8a72127f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TESS Collective",
+  "SYMBOL": "TCNFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tess-collective-v2",
+  "SHOW_BACKGROUND": true
+}
