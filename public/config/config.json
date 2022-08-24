@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "TESS Collective",
   "SYMBOL": "TCNFT",
-  "MAX_SUPPLY": 500,
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
