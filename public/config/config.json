@@ -12,7 +12,7 @@
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 21000,
-  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/tess-collective",
   "SHOW_BACKGROUND": true
 }
