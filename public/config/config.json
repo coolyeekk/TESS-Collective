@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x84ad68aEE402600Cc5c49ed64f0426eFEed0cFf0",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x84ad68aee402600cc5c49ed64f0426efeed0cff0",
+  "CONTRACT_ADDRESS": "0x9D3c8D1e26474349958e2Ac6B2622aa1612077ff",
+  "SCAN_LINK": "https://etherscan.io/address/0x9d3c8d1e26474349958e2ac6b2622aa1612077ff",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "TESS Collective",
   "SYMBOL": "TCNFT",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tess-collective-v3",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tess-collective",
   "SHOW_BACKGROUND": true
 }
